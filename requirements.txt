@@ -1,0 +1,13 @@
+aiogram
+aiohttp
+
+yt-dlp
+shortuuid
+
+psycopg2-binary
+asyncpg
+aioredis
+
+sqlalchemy
+python-dotenv
+
